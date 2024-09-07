@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Welcome to the Programming Community",
+    "content": "Hello fellow programmers! We are excited to have you join our community. Feel free to ask questions, share your knowledge, and collaborate with others. Happy coding!",
+    "received": "5 minutes ago"
+  },
+  {
+    "title": "Code Review Request",
+    "content": "Hey everyone, I have just finished writing a new function and I would appreciate it if someone could review my code. Here's the function:\n\nfunction calculateSum(a, b) {\n    return a + b;\n}\n\nPlease let me know if you have any suggestions or improvements. Thanks!",
+    "received": "2 minutes ago"
+  },
+  {
+    "title": "Upcoming Webinar Announcement",
+    "content": "We are excited to announce an upcoming webinar on 'Introduction to Machine Learning'. Join us on [date] at [time] to learn the basics of machine learning and how it can be applied in various domains. Don't miss out on this opportunity!",
+    "received": "1 minute ago"
+  },
+  {
+    "title": "Job Opportunity",
+    "content": "We have a job opening for a software engineer position at our company. If you are passionate about programming and have experience in [programming language], please send us your resume. We look forward to hearing from you!",
+    "received": "1 day ago"
+  },
+  {
+    "title": "Bug Fix Announcement",
+    "content": "Attention all developers! We have identified a critical bug in our application that needs to be fixed immediately. Please check the issue tracker for more details and contribute to the bug fix. Your help is greatly appreciated!",
+    "received": "4 minutes ago"
+  }
+]
